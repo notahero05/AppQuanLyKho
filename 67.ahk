@@ -1,3 +1,3 @@
 ﻿#Requires AutoHotkey v2.0
 
-;nothing here;
+;nothing here;;;
